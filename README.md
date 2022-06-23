@@ -1,0 +1,2 @@
+# SoulBoundToken
+SoulBound/AccountBound Token
